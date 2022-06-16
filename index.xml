@@ -5,25 +5,6 @@
     <link>https://flex486.xyz/</link>
     <description>Recent content on Il blog di FleX486</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language>
-    <lastBuildDate>Thu, 16 Jun 2022 16:12:56 +0200</lastBuildDate><atom:link href="https://flex486.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testing_rss</title>
-      <link>https://flex486.xyz/posts/testing_rss/</link>
-      <pubDate>Thu, 16 Jun 2022 16:12:56 +0200</pubDate>
-      
-      <guid>https://flex486.xyz/posts/testing_rss/</guid>
-      <description>Test del feed RSS</description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
-      <link>https://flex486.xyz/posts/testing/</link>
-      <pubDate>Thu, 16 Jun 2022 12:37:20 +0200</pubDate>
-      
-      <guid>https://flex486.xyz/posts/testing/</guid>
-      <description>Test Test Test Teeest</description>
-    </item>
-    
+    <language>it-it</language><atom:link href="https://flex486.xyz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
