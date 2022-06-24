@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://flex486.xyz/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2022-06-24T10:25:00+02:00</lastmod>
   </url><url>
-    <loc>https://flex486.xyz/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2022-06-24T10:25:00+02:00</lastmod>
   </url><url>
-    <loc>https://flex486.xyz/tags/</loc>
+    <loc>/posts/una-introduzione-a-storage-spaces/</loc>
+    <lastmod>2022-06-24T10:25:00+02:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
