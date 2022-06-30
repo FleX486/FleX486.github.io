@@ -9,10 +9,30 @@
     <description>Recent content in Posts on FleX486</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 10:25:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 01:18:03 +0200</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windows 10 LTSC: La Migliore (*) Edizione Di Windows 10</title>
+      <link>/posts/windows-ltsc-la-migliore-edizione-di-windows/</link>
+      <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
+      
+      <guid>/posts/windows-ltsc-la-migliore-edizione-di-windows/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Con l&amp;rsquo;introduzione di Windows 10 nel 2015, divenne subito chiaro quale sarebbe stata la strategia commerciale di Microsoft negli anni a venire. Fornire un prodotto virtualmente gratis (sotto forma di upgrade gratuiti) sussidiando i costi di sviluppo con pubblicità invasive e aggressivo product placement dei vari servizi ad abbonamento offerti da Microsoft. Il tutto condito da una massicio collezionamento di dati per mezzo della telemetria. È ovvio che queste decisioni hanno frustrato molte persone, visto anche che rimovere queste nuove &amp;ldquo;funzionalità&amp;rdquo; è un processo assai tedioso se non in alcuni casi impossibile.
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Una Introduzione a Storage Spaces</title>
