@@ -9,13 +9,35 @@
     <description>Recent content on FleX486</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 01:18:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 15:05:14 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Windows 10 LTSC: La Migliore (*) Edizione Di Windows 10</title>
+      <title>Come riparare le man pages su openSUSE</title>
+      <link>/posts/come-riparare-le-man-pages-su-opensuse/</link>
+      <pubDate>Fri, 01 Jul 2022 15:05:14 +0200</pubDate>
+      
+      <guid>/posts/come-riparare-le-man-pages-su-opensuse/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Usando openSUSE Tumbleweed su WSL mi sono accorto della mancanza di diverse pagine manuale (man pages), come si può vedere nella foto sottostante
+Per ripristinarle, è sufficiente dare questo comando
+sudo zypper install -f man man-pages man-pages-posix 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Windows 10 LTSC: La migliore (*) edizione di Windows 10</title>
       <link>/posts/windows-ltsc-la-migliore-edizione-di-windows/</link>
       <pubDate>Mon, 27 Jun 2022 01:18:03 +0200</pubDate>
       
@@ -35,7 +57,7 @@
     </item>
     
     <item>
-      <title>Una Introduzione a Storage Spaces</title>
+      <title>Una introduzione a Storage Spaces</title>
       <link>/posts/una-introduzione-a-storage-spaces/</link>
       <pubDate>Fri, 24 Jun 2022 10:25:00 +0200</pubDate>
       
