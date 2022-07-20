@@ -9,10 +9,30 @@
     <description>Recent content on FleX486</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 15:05:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2022 12:26:23 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Come avviare il PC in una shell EFI</title>
+      <link>/posts/come-avviare-il-pc-in-una-shell-efi/</link>
+      <pubDate>Wed, 20 Jul 2022 12:26:23 +0200</pubDate>
+      
+      <guid>/posts/come-avviare-il-pc-in-una-shell-efi/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Alcune operazioni, come ad esempio aggiornare un firmware, non possono essere eseguite all&#39;interno del sistema operativo. Visto che queste operazioni necessitano di accedere in modo diretto all&#39;hardware è necessario eseguirle in un ambiente capace di fornire un tale livello di accesso...
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Come riparare le man pages su openSUSE</title>
@@ -28,9 +48,7 @@
         
         
         
-          Usando openSUSE Tumbleweed su WSL mi sono accorto della mancanza di diverse pagine manuale (man pages), come si può vedere nella foto sottostante
-Per ripristinarle, è sufficiente dare questo comando
-sudo zypper install -f man man-pages man-pages-posix 
+          Usando openSUSE Tumbleweed su WSL mi sono accorto della mancanza di diverse pagine manuale...
           
         
         </description>
@@ -50,7 +68,7 @@ sudo zypper install -f man man-pages man-pages-posix
         
         
         
-          Con l&amp;rsquo;introduzione di Windows 10 nel 2015, divenne subito chiaro quale sarebbe stata la strategia commerciale di Microsoft negli anni a venire. Fornire un prodotto virtualmente gratis (sotto forma di upgrade gratuiti) sussidiando i costi di sviluppo con pubblicità invasive e aggressivo product placement dei vari servizi ad abbonamento offerti da Microsoft. Il tutto condito da una massicio collezionamento di dati per mezzo della telemetria. È ovvio che queste decisioni hanno frustrato molte persone, visto anche che rimovere queste nuove &amp;ldquo;funzionalità&amp;rdquo; è un processo assai tedioso se non in alcuni casi impossibile.
+          Con l&#39;introduzione di Windows 10 nel 2015, divenne subito chiaro quale sarebbe stata la strategia commerciale di Microsoft negli anni a venire. Fornire un prodotto virtualmente gratis (sotto forma di upgrade gratuiti) sussidiando i costi di sviluppo con pubblicità invasive e aggressivo product placement dei vari servizi ad abbonamento offerti da Microsoft. Il tutto condito da un massicio collezionamento di dati per mezzo della telemetria. È ovvio che queste decisioni hanno frustrato molte persone...
           
         
         </description>
@@ -70,8 +88,7 @@ sudo zypper install -f man man-pages man-pages-posix
         
         
         
-          Storage Spaces è una tecnologia più complessa di quanto non gli si dia credito. Introdotta nel 2012 con Windows 8 e Windows Server 2012, consente di raggruppare più dischi fisici (es. HDD, SDD) in un unico pool di archiviazione la cui capacità viene suddivisa in uno o più dischi logici (spazi di archiviazione), i quali possono essere configurati con diversi livelli di resilienza (nessuno, mirroring o parità).
-Caratteristiche e funzionalità # Storage Spaces presenta numerose funzionalità, tra cui:
+          Storage Spaces è una tecnologia più complessa di quanto non gli si dia credito. Introdotta nel 2012 con Windows 8 e Windows Server 2012, consente di raggruppare più dischi fisici (es. HDD, SDD) in un unico pool di archiviazione la cui capacità viene suddivisa in uno o più dischi logici (spazi di archiviazione), i quali possono essere configurati con diversi livelli di resilienza (nessuno, mirroring o parità)...
           
         
         </description>
